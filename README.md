@@ -5,6 +5,10 @@
   <i>Tecnología que marca tu rumbo</i> 🧭
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rodrixxx7676&color=blueviolet&style=for-the-badge&label=VISITAS" alt="Visitas al perfil"/>
+</p>
+
 ---
 
 ## 🚀 Sobre mí
@@ -54,6 +58,18 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rodrixxx7676&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrixxx7676&layout=compact&theme=tokyonight&hide_border=true&locale=es" alt="Lenguajes más usados" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rodrixxx7676&theme=tokyonight&hide_border=true&locale=es" alt="Racha de contribuciones" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rodrixxx7676&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="Trofeos"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Rodrixxx7676/Rodrixxx7676/output/github-snake.svg" alt="Snake animation"/>
 </p>
 
 ---
