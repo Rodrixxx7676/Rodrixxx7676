@@ -2,6 +2,7 @@
 
 <p align="center">
   <b>Desarrollador Full-Stack · Fundador de <a href="https://kurs-seenode.seenode.app">KURS</a></b><br/>
+  <i>Estudiante de Ingeniería Empresarial y de Sistemas · Auxiliar de Sistemas en Grupo Carso</i><br/>
   <i>Tecnología que marca tu rumbo</i> 🧭
 </p>
 
@@ -13,10 +14,12 @@
 
 ## 🚀 Sobre mí
 
+- 🎓 Estudio **Ingeniería Empresarial y de Sistemas** en la Universidad Científica del Sur, y trabajo como **Auxiliar de Sistemas en Grupo Carso**, donde resuelvo más de 80 incidencias de infraestructura al mes y automatizo procesos internos.
 - 💼 Fundé **KURS**, un emprendimiento de desarrollo web y automatización para pequeñas y medianas empresas — entregamos páginas web funcionales en menos de 24 horas.
 - 🔨 Construyo aplicaciones completas: desde la base de datos y la API hasta el frontend y el deploy en producción.
 - 🌎 Perú 🇵🇪
-- 📫 Contacto: **kurs.company.com@gmail.com** · Instagram [@kurs.pe](https://instagram.com/kurs.pe)
+- 📫 Escríbeme: **rodripontevillarroel@gmail.com** · [LinkedIn](https://www.linkedin.com/in/rodrigo-ponte-baa1a7253/)
+- 🧭 Por KURS: **kurs.company.com@gmail.com** · Instagram [@kurs.pe](https://instagram.com/kurs.pe)
 
 ## 🛠️ Stack tecnológico
 
@@ -47,6 +50,7 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| 🕒 [**Clack**](https://github.com/Rodrixxx7676/Clack) | Reloj mundial con hora, temperatura, alarmas y planificador de reuniones entre husos horarios — [pruébalo](https://clack.kursperu.duckdns.org) | React · Node.js · MVVM · PWA |
 | 🧭 [**KURS**](https://github.com/Rodrixxx7676/kurs-seenode) | Web oficial de mi emprendimiento, en producción — [kurs-seenode.seenode.app](https://kurs-seenode.seenode.app) | Node.js · Express · PostgreSQL |
 | 🧭 [**KURS (.NET)**](https://github.com/Rodrixxx7676/kurs) | Versión original de la plataforma KURS | .NET 10 · Blazor WASM · EF Core |
 | 💰 [**Sedix**](https://github.com/Rodrixxx7676/sedix) | App web de metas de ahorro personal | Flutter Web · ASP.NET Core 8 · PostgreSQL |
@@ -75,8 +79,10 @@
 ---
 
 <p align="center">
-  <i>¿Tienes un proyecto en mente? Hablemos 🚀</i><br/>
-  <a href="https://instagram.com/kurs.pe">Instagram</a> ·
+  <i>¿Tienes un proyecto en mente, o una vacante que encaje? Hablemos 🚀</i><br/>
+  <a href="https://www.linkedin.com/in/rodrigo-ponte-baa1a7253/">LinkedIn</a> ·
+  <a href="mailto:rodripontevillarroel@gmail.com">rodripontevillarroel@gmail.com</a><br/>
+  <sub>KURS: <a href="https://instagram.com/kurs.pe">Instagram</a> ·
   <a href="https://tiktok.com/@kurs.pe">TikTok</a> ·
-  <a href="mailto:kurs.company.com@gmail.com">Correo</a>
+  <a href="mailto:kurs.company.com@gmail.com">Correo</a></sub>
 </p>
