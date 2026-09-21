@@ -52,6 +52,7 @@
 |---|---|---|
 | 🕒 [**Clack**](https://github.com/Rodrixxx7676/Clack) | Reloj mundial con hora, temperatura, alarmas y planificador de reuniones entre husos horarios — [pruébalo](https://clack.kursperu.duckdns.org) | React · Node.js · MVVM · PWA |
 | 💼 [**Portafolio**](https://github.com/Rodrixxx7676/portafolio) | Mi sitio personal: arquitectura MVVM, documentación en vivo desde la API de GitHub, pruebas y CI | React · TypeScript · Express · AWS |
+| 🍕 [**El Caballero Negro**](https://github.com/Rodrixxx7676/caballero-negro) | Carta digital de un restaurante, con asistente que responde sobre los platos | ASP.NET Core 10 · React · TypeScript · AWS |
 | 🛡️ [**Ward**](https://github.com/Rodrixxx7676/ward-demo) | Gestión de garantías de equipos de cómputo, con consulta automática a la API de Dell TechDirect | Node.js · Express · MySQL · JWT |
 | 🧭 [**KURS**](https://github.com/Rodrixxx7676/kurs-seenode) | Web oficial de mi emprendimiento, en producción — [kurs-seenode.seenode.app](https://kurs-seenode.seenode.app) | Node.js · Express · PostgreSQL |
 | 🧭 [**KURS (.NET)**](https://github.com/Rodrixxx7676/kurs) | Versión original de la plataforma KURS | .NET 10 · Blazor WASM · EF Core |
